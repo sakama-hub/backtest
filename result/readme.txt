@@ -1,0 +1,5 @@
+・概要：このディレクトリの中には検証結果のデータが入る
+・各ファイルの説明
+funds_transition：純資産曲線
+trade_overview.csv:勝率などのトレード結果がまとめられている
+trade_record.csv：トレードの履歴がまとめれている
