@@ -64,7 +64,7 @@ backtest.py：実行スクリプト
 57
 58
 59
-#　FX_backtest
+# FX_backtest
 
 pythonで書いたFX自動売買アルゴリズムのバックテストをツール
  
