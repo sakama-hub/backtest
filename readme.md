@@ -24,7 +24,7 @@ pip install -U -r requirements.txt
 # 使い方
  1. trade_algolithm.py内に自分の考えた売買アルゴリズムを記載（仕様はtrade_algolithm_sample.pyを参照）
  
- 2. backtest_data内に検証データを入れる
+ 2. backtest_data内に検証データを入れる（データ形式はsample_data.csvを参照）
  
  3. 適宜，フォルダprofitable_update，stoploss_update内に各種プログラムを入れる
  
