@@ -68,9 +68,17 @@ backtest.py：実行スクリプト
 
 pythonで書いたFX自動売買アルゴリズムのバックテストをツール
  
-#　インストール方法
+# インストール方法
 　※windows10環境を想定
- ｆか：；ｄ
+ 
+ 1)python3.6をインストール
+ 
+ 2)コマンドプロンプトからgitリポジトリをクローン
+ 
+ ```bash
+git clone https://github.com/sakama-hub/backtest.git
+```
+ 
 # Features
  
 "hoge"のセールスポイントや差別化などを説明する
