@@ -34,7 +34,10 @@ pip install -U -r requirements.txt
  * backtest_data：検証データを入れるためのフォルダ
  * backtest.py：実行スクリプト
  
-# Note
+# 使い方
+1. gs
+2. dfa
+# メモ
  
 バックテストデータの取得方法は別サイトを参考のこと
  
