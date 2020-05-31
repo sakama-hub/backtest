@@ -28,7 +28,7 @@ pip install -U -r requirements.txt
  
  3. 適宜，フォルダprofitable_update，stoploss_update内に各種プログラムを入れる
  
- 4.コマンドプロンプト上でbacktest.pyを実行
+ 4. コマンドプロンプト上でbacktest.pyを実行
  
 # 各種ファイル・フォルダ
 
@@ -40,9 +40,7 @@ pip install -U -r requirements.txt
  * backtest_data：検証データを入れるためのフォルダ
  * backtest.py：実行スクリプト
  
-# 使い方
-1. gs
-2. dfa
+
 # メモ
  
 バックテストデータの取得方法は別サイトを参考のこと
